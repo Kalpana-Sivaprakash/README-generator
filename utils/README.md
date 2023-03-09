@@ -1,9 +1,9 @@
-# README-generator
+# README generator
   ![Github license](https://img.shield.io/badge/MIT-blue.svg)
 
   ### Description
 
-  Professional README file generator
+  professional README
 
   ### Table of contents
 
@@ -33,15 +33,13 @@
 
   # Usage
 
-  node version
+  fork
 
   ## License
 
-  This project is licensed under the MIT license.
-
   ## Contributing
 
-  
+  fork
 
   ## Tests
 
