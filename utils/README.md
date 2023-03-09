@@ -10,18 +10,16 @@
   *[Installation](#installation)
 
   *[Usage](#usage)
-
   
-* [License](#license)
+  *[License](#license)
 
+  *[Contributing](#contributing)
 
-  * [Contributing](#contributing)
+  *[Test](#tests)
 
-  *[Test] (#tests)
+  *[Questions](#questions) 
 
-  *[Questions] (#questions)
-
-  ##Installation
+## Installation
 
   To install necessary dependencies, run the following command:
 
@@ -34,6 +32,11 @@
   # Usage
 
   fork
+
+  ![alt screenshot1 of deployed page](assets/Kalpana-Sivaprakash_README-generator_ Professional README file generator.mov)
+
+  [![Video walkthrough]({image-url})](../assets/Kalpana-Sivaprakash_README-generator_%20Professional%20README%20file%20generator.webm "Link Title")
+  
 
   ## License
 
